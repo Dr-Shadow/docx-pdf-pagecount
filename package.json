@@ -19,7 +19,7 @@
     "pdf2json": "^1.1.7",
     "stream-to-string": "^1.1.0",
     "tmp": "0.0.33",
-    "unzip": "^0.1.11",
+    "unzipper": "^0.10.5",
     "xml2js": "^0.4.19"
   },
   "author": "Vishal Bisht <vishalbisht7201@gmail.com> (http://www.codepeal.com)",

@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path')
-const unzip = require('unzip')
+const unzip = require('unzipper')
 const parseString = require('xml2js').parseString;
 const toString = require('stream-to-string')
 
